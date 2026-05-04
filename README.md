@@ -8,9 +8,6 @@
   </a>
   <a href="mailto:your.tamilvendan066@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tamilvendan066-lab&style=for-the-badge&color=0e75b6" />
-</p>
 
 ---
 
@@ -54,15 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamilvendan066-lab&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvendan066-lab&layout=compact&theme=default&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 🎯 Currently Working On
 
 - ✅ Completing **Google Data Analytics Certificate** (Coursera)
@@ -78,7 +66,7 @@ I'm actively looking for **Data Analyst / Junior Data Science** roles.
 If you're a recruiter, founder, or someone building something with data — let's talk!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tamil-vendan-56a6b7389">
+  <a href="https://www.linkedin.com/in/tamilvendanS">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
